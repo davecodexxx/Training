@@ -1,2 +1,6 @@
-# Training
-Skill test
+my mood:
+>[happy]
+
+favorite color:
+>[pink]
+
