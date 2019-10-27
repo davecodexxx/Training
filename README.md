@@ -1,6 +1,6 @@
 my mood:
->[happy]
+>happy
 
 favorite color:
->[pink]
+>pink
 
